@@ -63,7 +63,7 @@
      height: 675px;
      justify-content: center;
      align-items: center;
-     background-image: url(/img/Background/bg-1.jpg);
+     background-image: url(./img/Background/bg-1.jp);
      background-repeat: no-repeat;
      background-size: cover;
     
@@ -109,7 +109,7 @@
 
 #client-section{
     height: 344px;
-    background-image: url(/img/Contactus/contact-us-4193523_1280.jpg);
+    background-image: url(./img/Contactus/contact-us-4193523_1280.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -135,7 +135,7 @@
 
 #contact{
     position: relative;
-    background-image: url(/img/Contactus/finger-3530351_1280.jpg);
+    background-image: url(./img/Contactus/finger-3530351_1280.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
